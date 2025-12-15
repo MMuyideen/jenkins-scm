@@ -1,4 +1,4 @@
 # jenkins-scm
 Jenkins Config Repo for Project https://github.com/MMuyideen/darey.io-projects/tree/master/31.introduction-to-jenkins
 
-Test jenkins webhook polls with git push
+Test jenkins webhook polls with push
